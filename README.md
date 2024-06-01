@@ -1,6 +1,7 @@
                                               **Mall customer segmentation**
                                                
 **📌Steps Performed :**
+
 📍Imported all the necessary libraries and loaded the dataset.
 📍Performed Exploratory Data analysis and remove little outliers.
 📍Used heatmap visualisation to find most relevent variables. 
